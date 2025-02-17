@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Mathswatch Autosolver
+// @name         Mathswatch Autosolver 
 // @namespace    http://tampermonkey.net/
 // @version      1.0
 // @description  Takes a screenshot of Mathswatch question images, sends it to Gemini, and displays the answer in a beautifully styled new tab.
