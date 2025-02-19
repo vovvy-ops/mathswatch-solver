@@ -30,6 +30,7 @@ To use this script, you'll need to install a userscript manager, such as:
 - Press `Ctrl + X` on your keyboard to trigger the script. The script will capture an image of the current question and send it to Gemini for analysis.
 - Once the answer is returned, it will be displayed in a new tab, where you can copy it to your clipboard.
 
-## Configuration
-You can customize the default prompt sent to Gemini by editing the `DEFAULT_PROMPT` variable. The current default is:
+## Disclaimer
+I am not responsible if you get into trouble.
+For EDUCATIONAL purposes only
 
